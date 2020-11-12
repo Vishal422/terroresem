@@ -17,21 +17,6 @@ app = dash.Dash()
 def load_data():
   dataset_name = "global_terror.csv"
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   pd.options.mode.chained_assignment = None
   
   global df
