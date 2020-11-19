@@ -470,10 +470,6 @@ def main():
   
   app.run_server() 
 
-  print("Thank You!!")
-  df = None
-  app = None
-
 
 
 if __name__ == '__main__':
